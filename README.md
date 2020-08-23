@@ -13,3 +13,5 @@
 # Referênces
   
   https://github.com/affinis-lab/traffic-light-detection-module
+
+  https://medium.com/@anthony_sarkis/self-driving-cars-implementing-real-time-traffic-light-detection-and-classification-in-2017-7d9ae8df1c58
