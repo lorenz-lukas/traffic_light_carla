@@ -1,2 +1,13 @@
-dataset/
-out/
+evaluate/input/carla_dataset
+evaluate/input/lisa_traffic_light_dataset
+evaluate/input/videos
+evaluate/outputs
+evaluate/test_video_data
+libs/__pycache__
+model/data
+model/weights
+model/cfg
+model/online_trained_notebooks
+train/dataset
+train/output
+train/preview_images
